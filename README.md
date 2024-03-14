@@ -2,8 +2,8 @@
 Bases de datos generales least square  
 # DataLineal.csv
 Se espera que los datos sigan el siguiente comportamiento $V = IR$, donde:
-- $V$ es la diferencia de potencial en voltios $(V)$.
-- $I$ es la corriente eléctrica en amperios $(A)$.
+- $V$ es la diferencia de potencial en voltios (V).
+- $I$ es la corriente eléctrica en amperios (A).
 
 # DataCuadratica.csv
 Esta bases de datos corresponde al comportamiento $y = v_0 t - \frac{1}{2} g t^2$, donde:
